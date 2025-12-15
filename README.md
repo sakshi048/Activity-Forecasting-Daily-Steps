@@ -99,3 +99,17 @@ The notebook generates a 365-day forecast with the following schema:
 
 ## Repository Structure
 
+Activity-Forecasting-Daily-Steps/
+│
+├── notebook/
+│   └── Activity_Forecasting_Daily_Steps.ipynb
+│
+├── output/
+│   └── 365_day_forecast.csv
+│
+├── docs/
+│   ├── Presentation.pdf
+│   ├── Supporting_Document.pdf
+│   └── Scalability_Document.pdf
+│
+└── README.md
